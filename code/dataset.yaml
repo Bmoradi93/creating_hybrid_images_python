@@ -1,0 +1,15 @@
+pair_1:
+  image_1: 'submarine.bmp'
+  image_2: 'fish.bmp'
+pair_2:
+  image_1: 'plane.bmp'
+  image_2: 'bird.bmp'
+pair_3:
+  image_1: 'cat.bmp'
+  image_2: 'dog.bmp'
+pair_4:
+  image_1: 'einstein.bmp'
+  image_2: 'marilyn.bmp'
+pair_5:
+  image_1: 'bicycle.bmp'
+  image_2: 'motorcycle.bmp'
