@@ -74,6 +74,8 @@ conda env create -f environment_linux.yml
 
 activate hybrid_images
 
+# Use the python notebook file to run the code.
+
 ```
 
 ### Who do I talk to? ###
