@@ -45,21 +45,28 @@ From a near distance: it looks like image_1 && from the far distance, it looks l
 #### The Gaussian Filter ####
 Dimensions: 29x29 && Standard deviation: 21
 
+![Selection_213](https://user-images.githubusercontent.com/47978272/147424538-11ec49ac-11a2-4cfb-b923-6b917d1ce52c.png)
+
+#### Hybrid Images ####
+In this repository the following image pairs have been used to generate 5 hybrid images:
+
+![Selection_214](https://user-images.githubusercontent.com/47978272/147424558-56c9e1c8-372a-43b1-b5b4-7b39b16c6ef7.png)
+
+![Selection_215](https://user-images.githubusercontent.com/47978272/147424630-04d560d3-670b-40e2-8814-4cfa84f8c92e.png)
+
+![Selection_216](https://user-images.githubusercontent.com/47978272/147424645-13bc8056-1e0a-467a-acd1-d07be01ae4f4.png)
+
+![Selection_217](https://user-images.githubusercontent.com/47978272/147424660-593e1b1b-9faf-4d65-8588-ac078d244072.png)
+
+![Selection_218](https://user-images.githubusercontent.com/47978272/147424674-c93d1f1d-0270-4e74-a7bd-e7ff9ce42a4a.png)
+
+![Selection_219](https://user-images.githubusercontent.com/47978272/147424685-09a0c085-f4b9-412f-8d54-a7907cd1de47.png)
+
+
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
+* 
 
 ### Who do I talk to? ###
 
