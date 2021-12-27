@@ -1,4 +1,4 @@
-name: ense885ay
+name: hybrid_images
 channels:
 - pytorch
 - menpo
