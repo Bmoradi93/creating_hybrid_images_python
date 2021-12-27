@@ -67,6 +67,15 @@ In this repository the following image pairs have been used to generate 5 hybrid
 ### How do I get set up? ###
 Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html). It doesn't matter whether you use 2.7 or 3.6 because we will create our own environment anyways.
 
+```
+cd creating_hybrid_images_python
+
+conda env create -f environment_linux.yml
+
+activate hybrid_images
+
+```
+
 ### Who do I talk to? ###
 
 * Behnam Moradi (behnammoradi026@gmail.com)
